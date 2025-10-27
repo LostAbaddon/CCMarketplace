@@ -7,7 +7,7 @@
   "metadata": {
     "description": "自建 Claude Code Plugin 市场",
     "version": "1.0.0",
-    "homepage": "https://github.com/lostabaddon/CCMarketplace",
+    "homepage": "https://github.com/",
     "author": "LostAbaddon"
   },
   "plugins": [
@@ -18,6 +18,10 @@
       "homepage": "https://github.com/lostabaddon/InfoCollector",
       "author": {
         "name": "LostAbaddon"
+      },
+	  "source": {
+        "source": "github",
+        "repo": "lostabaddon/InfoCollector"
       },
       "license": "MIT",
       "repository": "https://github.com/lostabaddon/InfoCollector.git",
