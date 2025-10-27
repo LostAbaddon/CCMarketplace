@@ -12,5 +12,5 @@
 
 - [InfoCollector](https://github.com/lostabaddon/InfoCollector.git)
   + 作者: LostAbaddon
-  + 版本: 1.1.1
+  + 版本: 1.1.2
   + 简介: 自动信息收集工具，包含一个 Skill 和三个 Agent，可以并发地对多个信息源进行信息收集
