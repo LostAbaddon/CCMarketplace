@@ -13,7 +13,6 @@
   "plugins": [
     {
       "name": "info-collector",
-      "source": "./",
       "version": "1.1.1",
       "description": "智能信息收集助手 - 自动从可靠信息源收集、分析和汇总信息",
       "homepage": "https://github.com/lostabaddon/InfoCollector",
