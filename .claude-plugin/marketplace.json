@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "自建 Claude Code Plugin 市场",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "homepage": "https://github.com/lostabaddon/CCMarketplace",
     "author": "LostAbaddon"
   },
@@ -41,7 +41,26 @@
         "analysis",
         "automation"
       ]
-
+    },
+    {
+      "name": "reminder",
+      "version": "1.0.0",
+      "description": "让 Claude Code 具备记住事项并定时发出提醒的能力，支持 Windows/MacOS/Linux",
+      "homepage": "https://github.com/lostabaddon/ReminderSkill",
+      "author": {
+        "name": "LostAbaddon"
+      },
+	  "source": {
+        "source": "github",
+        "repo": "lostabaddon/ReminderSkill"
+      },
+      "license": "MIT",
+      "repository": "https://github.com/lostabaddon/ReminderSkill.git",
+      "keywords": ["reminder", "calendar", "notification", "scheduler"],
+      "category": "productivity-tool",
+      "tags": [
+        "productivity"
+      ]
     }
   ]
 }
