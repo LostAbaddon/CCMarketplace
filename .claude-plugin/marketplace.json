@@ -44,7 +44,7 @@
     },
     {
       "name": "reminder",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "description": "让 Claude Code 具备记住事项并定时发出提醒的能力，支持 Windows/MacOS/Linux",
       "homepage": "https://github.com/lostabaddon/ReminderSkill",
       "author": {
