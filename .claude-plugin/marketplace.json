@@ -96,6 +96,30 @@
         "analysis",
         "automation"
       ]
+    },
+    {
+      "name": "plugin2extension",
+      "version": "1.0.0",
+      "description": "将 Claude Code Plugin 转换为 Gemini CLI Extension 的 SubAgent",
+      "homepage": "https://github.com/lostabaddon/CCP2GCE",
+      "author": {
+        "name": "LostAbaddon",
+        "email": "lostabaddon@gmail.com",
+        "url": "https://lostabaddon.github.io/"
+      },
+      "license": "MIT",
+      "repository": "https://github.com/lostabaddon/CCP2GCE.git",
+      "keywords": [
+        "converter",
+        "plugin",
+        "gemini",
+        "extension"
+      ],
+      "category": "productivity-tool",
+      "tags": [
+        "productivity",
+        "automation"
+      ]
     }
   ]
 }

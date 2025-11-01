@@ -27,6 +27,11 @@
   + 版本: 1.1.1
   + 简介: 一个能自动记录用户在 Claude Code 中操作，并生成每日简报的 Plugin。如果使用配套的服务器与 Chrome 插件，那能记录的东西可以更多，提供的服务也会更多。
 
+- [CCP2GCE](https://github.com/lostabaddon/CCP2GCE.git)
+  + 作者: LostAbaddon
+  + 版本: 1.0.0
+  + 简介: 一个能将 Claude Code Plugin “翻译”为 Gemini CLI Extension 的 Plugin。包含一个 SubAgent 和一个 Command。
+
 ## 配套服务组件
 
 - [CCCore](https://github.com/lostabaddon/CCCore.git)
