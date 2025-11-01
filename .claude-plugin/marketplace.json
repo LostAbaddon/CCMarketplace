@@ -17,9 +17,11 @@
       "description": "智能信息收集系统 - 自动从多个可靠信息源收集、分析和汇总信息，也可以对特定需求进行深入调查分析，当用户需要收集信息时使用本插件",
       "homepage": "https://github.com/lostabaddon/InfoCollector",
       "author": {
-        "name": "LostAbaddon"
+        "name": "LostAbaddon",
+        "email": "lostabaddon@gmail.com",
+        "url": "https://lostabaddon.github.io/"
       },
-	  "source": {
+	    "source": {
         "source": "github",
         "repo": "lostabaddon/InfoCollector"
       },
@@ -48,9 +50,11 @@
       "description": "让 Claude Code 具备记住事项并定时发出提醒的能力，支持 Windows/MacOS/Linux",
       "homepage": "https://github.com/lostabaddon/ReminderSkill",
       "author": {
-        "name": "LostAbaddon"
+        "name": "LostAbaddon",
+        "email": "lostabaddon@gmail.com",
+        "url": "https://lostabaddon.github.io/"
       },
-	  "source": {
+	    "source": {
         "source": "github",
         "repo": "lostabaddon/ReminderSkill"
       },
@@ -60,6 +64,37 @@
       "category": "productivity-tool",
       "tags": [
         "productivity"
+      ]
+    },
+    {
+      "name": "workReport",
+      "version": "1.1.1",
+      "description": "自动记录用户活动，并能根据用户活动生成日报周报。同时也是 CCCore 的 Plugin 部分，用户信息摘取。",
+      "homepage": "https://github.com/lostabaddon/DailyReportSkill",
+      "author": {
+        "name": "LostAbaddon",
+        "email": "lostabaddon@gmail.com",
+        "url": "https://lostabaddon.github.io/"
+      },
+	    "source": {
+        "source": "github",
+        "repo": "lostabaddon/DailyReportSkill"
+      },
+      "license": "MIT",
+      "repository": "https://github.com/lostabaddon/DailyReportSkill.git",
+      "keywords": [
+        "work-report",
+        "daily-report",
+        "weekly-report",
+        "productivity",
+        "logging",
+        "automation"
+      ],
+      "category": "productivity-tool",
+      "tags": [
+        "productivity",
+        "analysis",
+        "automation"
       ]
     }
   ]
