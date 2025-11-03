@@ -17,7 +17,7 @@
 
 - [Reminder](https://github.com/lostabaddon/ReminderSkill.git)
   + 作者: LostAbaddon
-  + 版本: 1.1.0
+  + 版本: 1.1.1
   + 简介: 让 Claude Code 具备记住事项并定时发出提醒的能力，支持 Windows/MacOS/Linux。
           本插件会注册一个 SessionStart 的 hook，其作用是自动判断 mcp 下的 Node.js 项目是否已经初始化，如果没有初始化则自动执行 `npm install`。如果没有成功触发，则用户需要自行到插件目录下的 mcp 目录中执行 `npm install`。
           本 Plugin 可以配合 [CCExtension](https://github.com/lostabaddon/CCExtension) 这个 Chrome Extension 一起使用，后者可以使用 Chrome 的 Notification 来做统一的提醒通知，并能进行更加全面的提醒管理。
@@ -36,7 +36,7 @@
 
 - [CCCore](https://github.com/lostabaddon/CCCore.git)
   + 作者: LostAbaddon
-  + 版本: 1.0.1
+  + 版本: 1.0.2
   + 简介: 一个 Node.JS 服务器，为 Claude Code 以及 Chrome 插件等提供基础服务，包括：日志读写、提醒转发，等等。
 
 - [CCExtension](https://github.com/lostabaddon/CCExtension.git)
