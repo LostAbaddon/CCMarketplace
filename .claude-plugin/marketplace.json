@@ -120,6 +120,32 @@
         "productivity",
         "automation"
       ]
+    },
+    {
+      "name": "complexMissionManager",
+      "version": "1.0.0",
+      "description": "智能多级任务拆分和并行执行系统 - 自动将复杂任务拆分为可并行执行的任务组，并通过多级 Agent 协同完成",
+      "homepage": "https://github.com/lostabaddon/ComplexMissionManager",
+      "author": {
+        "name": "LostAbaddon",
+        "email": "lostabaddon@gmail.com",
+        "url": "https://lostabaddon.github.io/"
+      },
+      "license": "MIT",
+      "repository": "https://github.com/lostabaddon/ComplexMissionManager.git",
+      "keywords": [
+        "task-management",
+        "parallel-execution",
+        "agent-collaboration",
+        "workflow-automation",
+        "task-splitting"
+      ],
+      "category": "productivity-tool",
+      "tags": [
+        "productivity",
+        "automation",
+        "workflow"
+      ]
     }
   ]
 }

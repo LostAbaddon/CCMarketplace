@@ -32,6 +32,11 @@
   + 版本: 1.0.0
   + 简介: 一个能将 Claude Code Plugin “翻译”为 Gemini CLI Extension 的 Plugin。包含一个 SubAgent 和一个 Command。
 
+- [ComplexMissionManager](https://github.com/lostabaddon/complexMissionManager.git)
+  + 作者: LostAbaddon
+  + 版本: 1.0.0
+  + 简介: 智能多级任务拆分和并行执行系统 - 自动将复杂任务拆分为可并行执行的任务组，并通过多级 Agent 协作完成。第一层：根据耦合情况拆分并行任务组；第二层：根据业务量以及拆分顺序任务序列；第三层：原子化任务执行层。
+
 ## 配套服务组件
 
 - [CCCore](https://github.com/lostabaddon/CCCore.git)
