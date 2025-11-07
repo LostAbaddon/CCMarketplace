@@ -13,7 +13,7 @@
   "plugins": [
     {
       "name": "info-collector",
-      "version": "1.2.2",
+      "version": "1.3.0",
       "description": "智能信息收集系统 - 自动从多个可靠信息源收集、分析和汇总信息，也可以对特定需求进行深入调查分析，当用户需要收集信息时使用本插件",
       "homepage": "https://github.com/lostabaddon/InfoCollector",
       "author": {
