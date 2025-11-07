@@ -21,7 +21,7 @@
         "email": "lostabaddon@gmail.com",
         "url": "https://lostabaddon.github.io/"
       },
-	    "source": {
+      "source": {
         "source": "github",
         "repo": "lostabaddon/InfoCollector"
       },
@@ -54,13 +54,18 @@
         "email": "lostabaddon@gmail.com",
         "url": "https://lostabaddon.github.io/"
       },
-	    "source": {
+      "source": {
         "source": "github",
         "repo": "lostabaddon/ReminderSkill"
       },
       "license": "MIT",
       "repository": "https://github.com/lostabaddon/ReminderSkill.git",
-      "keywords": ["reminder", "calendar", "notification", "scheduler"],
+      "keywords": [
+        "reminder",
+        "calendar",
+        "notification",
+        "scheduler"
+      ],
       "category": "productivity-tool",
       "tags": [
         "productivity"
@@ -76,7 +81,7 @@
         "email": "lostabaddon@gmail.com",
         "url": "https://lostabaddon.github.io/"
       },
-	    "source": {
+      "source": {
         "source": "github",
         "repo": "lostabaddon/DailyReportSkill"
       },
@@ -123,7 +128,7 @@
     },
     {
       "name": "complexMissionManager",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "智能多级任务拆分和并行执行系统 - 自动将复杂任务拆分为可并行执行的任务组，并通过多级 Agent 协同完成",
       "homepage": "https://github.com/lostabaddon/ComplexMissionManager",
       "author": {
@@ -145,6 +150,32 @@
         "productivity",
         "automation",
         "workflow"
+      ]
+    },
+    {
+      "name": "headless-knight",
+      "version": "1.0.0",
+      "description": "无头骑士 - 以独立进程方式调用 Claude Code、Gemini CLI 等 AI CLI 工具的插件",
+      "homepage": "https://github.com/lostabaddon/HeadlessKnight",
+      "author": {
+        "name": "LostAbaddon",
+        "email": "lostabaddon@gmail.com",
+        "url": "https://lostabaddon.github.io/"
+      },
+      "license": "MIT",
+      "repository": "https://github.com/lostabaddon/HeadlessKnight.git",
+      "keywords": [
+        "headless",
+        "automation",
+        "process-management",
+        "claude-code",
+        "gemini-cli",
+        "codex"
+      ],
+      "category": "productivity-tool",
+      "tags": [
+        "productivity",
+        "automation"
       ]
     }
   ]
