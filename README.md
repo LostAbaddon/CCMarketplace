@@ -39,7 +39,7 @@
 
 - [HeadlessKnight](https://github.com/lostabaddon/HeadlessKnight.git)
   + 作者: LostAbaddon
-  + 版本: 1.0.1
+  + 版本: 1.0.2
   + 简介: 让 Claude Code 具备调用 Claude Code、Gemini CLI、Codex CLI 等 AI CLI 工具能力的 Claude Code 插件。其中还自带了 Context7 这个 MCP 以及一个方便生成 commit 信息的 command。
 
 ## 配套服务组件

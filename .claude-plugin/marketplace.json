@@ -154,7 +154,7 @@
     },
     {
       "name": "headless-knight",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "无头骑士 - 以独立进程方式调用 Claude Code、Gemini CLI 等 AI CLI 工具的插件",
       "homepage": "https://github.com/lostabaddon/HeadlessKnight",
       "author": {
