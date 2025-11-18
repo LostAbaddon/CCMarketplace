@@ -39,17 +39,17 @@
 
 - [HeadlessKnight](https://github.com/lostabaddon/HeadlessKnight.git)
   + 作者: LostAbaddon
-  + 版本: 1.1.1
+  + 版本: 1.1.2
   + 简介: 让 Claude Code 具备调用 Claude Code、Gemini CLI、Codex CLI 等 AI CLI 工具能力的 Claude Code 插件。其中还自带了 Context7 这个 MCP 以及一个方便生成 commit 信息的 command。
 
 ## 配套服务组件
 
 - [CCCore](https://github.com/lostabaddon/CCCore.git)
   + 作者: LostAbaddon
-  + 版本: 1.1.2
+  + 版本: 1.1.3
   + 简介: 一个 Node.JS 服务器，为 Claude Code 以及 Chrome 插件等提供基础服务，包括：日志读写、提醒转发，等等。
 
 - [CCExtension](https://github.com/lostabaddon/CCExtension.git)
   + 作者: LostAbaddon
-  + 版本: 1.1.1
+  + 版本: 1.1.3
   + 简介: 一个与 Claude Code 插件相互配合的 Chrome 插件，功能包括：活动日志记录与展示、事件提醒、Markdown 直接解析，等等。
